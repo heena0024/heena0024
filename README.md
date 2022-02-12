@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/heena-saini-b8a588198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heena saini" height="30" width="40" /></a>
 <a href="sainiheena0024@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
-
 <a href="https://fb.com/heena saini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="heena saini" height="30" width="40" /></a>
 </p>
 
