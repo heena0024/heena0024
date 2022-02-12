@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm heena</h1>
 <h3 align="center">Backend Developer</h3>
 
-### <img src="https://img.icons8.com/emoji/48/000000/man-technologyst.png"/> More about me:
+### <img src="https://img.icons8.com/emoji/48/000000/man-technologyst.png"/>About me:
   
 I am a **Coder** and completed my degree in **computer science Engineering**:. I am into Problem Solving and Backend Developer. I also have my hands on technologies . I am currently learning <b>Backend Development and AWS S3 </b>. As of now I am a fresher. Looking for open doors to keep my foot in IT, as a Developer. 
 
@@ -30,4 +30,9 @@ I am a **Coder** and completed my degree in **computer science Engineering**:. I
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heena0024&show_icons=true&locale=en&layout=compact" alt="heena0024" /></p>
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heena0024&show_icons=true&locale=en" alt="heena0024" /></p>
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heena0024&" alt="heena0024" /></p>
+
+
