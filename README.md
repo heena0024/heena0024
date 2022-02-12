@@ -30,9 +30,4 @@ I am a **Coder** and completed my degree in **computer science Engineering**:. I
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heena0024&show_icons=true&locale=en&layout=compact" alt="heena0024" /></p>
 
 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heena0024&show_icons=true&locale=en" alt="heena0024" /></p>
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heena0024&" alt="heena0024" /></p>
